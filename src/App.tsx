@@ -1,9 +1,7 @@
+import Blog from 'pages/blog';
+
 function App() {
-    return (
-        <div>
-            <p className="font-bold">Working</p>
-        </div>
-    );
+    return <Blog />;
 }
 
 export default App;
